@@ -1,0 +1,1 @@
+-wto "82cdb37907d147249754e355d1cc7415" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "PMODI2S2_user_behav" "xil_defaultlib.PMODI2S2_user" -log "elaborate.log" 

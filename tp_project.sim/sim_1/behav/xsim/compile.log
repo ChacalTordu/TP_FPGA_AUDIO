@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/ADC_register_2x24_bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ADC_register_2x24_bits'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/DAC_register_2x24_bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DAC_register_2x24_bits'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_ADC_controler.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_ADC_controler'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_ADC_driver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_ADC_driver'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_DAC_controler.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_DAC_controler'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_DAC_driver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_DAC_driver'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_Processing_Unit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_Processing_Unit'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_timer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_timer'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/clock_generator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_generator'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/windows/Documents/M2 SE/FPGA/TP AUDIO/TP Validation Plateforme audio-20220930/LE CODE/PMODI2S2_user.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PMODI2S2_user'

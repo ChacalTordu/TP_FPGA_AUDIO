@@ -1,0 +1,25 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 82cdb37907d147249754e355d1cc7415 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot PMODI2S2_user_behav xil_defaultlib.PMODI2S2_user -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.numeric_bit
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling architecture behavior of entity xil_defaultlib.PMODI2S2_ADC_controler [pmodi2s2_adc_controler_default]
+Compiling architecture behavioral of entity xil_defaultlib.ADC_register_2x24_bits [adc_register_2x24_bits_default]
+Compiling architecture structural of entity xil_defaultlib.PMODI2S2_ADC_driver [pmodi2s2_adc_driver_default]
+Compiling architecture behavior of entity xil_defaultlib.PMODI2S2_DAC_controler [pmodi2s2_dac_controler_default]
+Compiling architecture behavioral of entity xil_defaultlib.DAC_register_2x24_bits [dac_register_2x24_bits_default]
+Compiling architecture structural of entity xil_defaultlib.PMODI2S2_DAC_driver [pmodi2s2_dac_driver_default]
+Compiling architecture behavior of entity xil_defaultlib.PMODI2S2_timer [pmodi2s2_timer_default]
+Compiling architecture behavioral of entity xil_defaultlib.clock_generator [clock_generator_default]
+Compiling architecture structural of entity xil_defaultlib.PMODI2S2_Processing_Unit [pmodi2s2_processing_unit_default]
+Compiling architecture structural of entity xil_defaultlib.pmodi2s2_user
+Built simulation snapshot PMODI2S2_user_behav
